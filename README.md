@@ -1,1 +1,1 @@
-![title image](image/title_img.gif)
+![title image](image/title_img.png)
